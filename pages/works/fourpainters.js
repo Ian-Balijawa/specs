@@ -32,20 +32,20 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Presentation</Meta>
-          <Link href="https://speakerdeck.com/craftzdog/the-fun-deep-learning">
+          <Link href="https://speakerdeck.com/spec-me/the-fun-deep-learning">
             The fun Deep Learning <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Blogpost</Meta>
-          <Link href="https://archive.craftz.dog/blog.odoruinu.net/2015/12/23/the-four-painters-a-video-work-created-with-deep-learning/">
+          <Link href="https://archivespec-me.com/blog.odoruinu.net/2015/12/23/the-four-painters-a-video-work-created-with-deep-learning/">
             The four painters: A Video Work Created with Deep Learning{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Blogpost</Meta>
-          <Link href="https://archive.craftz.dog/blog.odoruinu.net/2015/12/19/created-movie-with-deep-learning/">
+          <Link href="https://archivespec-me.com/blog.odoruinu.net/2015/12/19/created-movie-with-deep-learning/">
             Deep Learningを使って映像作品を作った
             <ExternalLinkIcon mx="2px" />
           </Link>

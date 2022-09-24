@@ -1,5 +1,5 @@
 {
-  "name": "craftzdog-homepage",
+  "name": "spec-me",
   "version": "1.0.0",
   "description": "Takuya's website",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Takuya Matsuyama",
+  "author": "Ian Balijawa",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.8",

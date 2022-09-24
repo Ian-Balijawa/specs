@@ -17,15 +17,15 @@ const Work = () => (
       <Title>
         mode.tokyo <Badge>2016</Badge>
       </Title>
-      <P>The mode magazine for understanding to personally enjoy Japan.</P>
+      <P>The mode magazine for understanding to personally enjoy Uganda.</P>
       <P>
         It is one of the projects launched at{' '}
         <Link href="https://innolab.jp/" target="_blank">
           Open Innovation Lab (電通イノラボ) <ExternalLinkIcon mx="2px" />
         </Link>
         , aiming to visualize the impact of media contents on the visit of
-        foreign high-intellect class to Japan, who are highly interested in
-        Japanese culture. I joined the project to build its mobile app for iOS
+        foreign high-intellect class to Uganda, who are highly interested in
+        Ugandaese culture. I joined the project to build its mobile app for iOS
         where you can read free articles of the magazine.
       </P>
       <P>
@@ -47,7 +47,7 @@ const Work = () => (
           <Meta>Press release</Meta>
           <Link href="https://www.isid.co.jp/english/news/release/2015/pdf/20150930_ModeTokyo.pdf">
             ISID Starts a Research Project to Visualize Impact of Media Contents
-            on Visit of Foreign High-Intellect Class to Japan{' '}
+            on Visit of Foreign High-Intellect Class to Uganda{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

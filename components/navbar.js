@@ -77,12 +77,10 @@ const Navbar = props => {
           <LinkItem href="/posts" path={path}>
             Posts
           </LinkItem>
-          <LinkItem href="https://uses.craftz.dog/">
-            Uses
-          </LinkItem>
+          <LinkItem href="https://usesspec-me.com/">Uses</LinkItem>
           <LinkItem
             target="_blank"
-            href="https://github.com/craftzdog/craftzdog-homepage"
+            href="https://github.com/spec-me/spec-me.git"
             path={path}
             display="inline-flex"
             alignItems="center"
@@ -115,12 +113,12 @@ const Navbar = props => {
                 <NextLink href="/posts" passHref>
                   <MenuItem as={Link}>Posts</MenuItem>
                 </NextLink>
-                <NextLink href="https://uses.craftz.dog/" passHref>
+                <NextLink href="https://usesspec-me.com/" passHref>
                   <MenuItem as={Link}>Uses</MenuItem>
                 </NextLink>
                 <MenuItem
                   as={Link}
-                  href="https://github.com/craftzdog/craftzdog-homepage"
+                  href="https://github.com/spec-me/spec-me.git"
                 >
                   View Source
                 </MenuItem>

@@ -37,15 +37,15 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m an indie app developer based in Japan!
+        Hello, I&apos;m an Software Engineer based in Kampala, Uganda!
       </Box>
 
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Ian Balijawa
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Digital Craftsman ( Scientist / Developer / Engineer )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -64,7 +64,7 @@ const Home = () => (
             overflow="hidden"
           >
             <ProfileImage
-              src="/images/takuya.jpg"
+              src="/images/ian.jpg"
               alt="Profile image"
               borderRadius="full"
               width="100%"
@@ -79,7 +79,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Takuya is a freelance and a full-stack developer based in Osaka with a
+          Ian is a freelance and a full-stack developer based in Kampala with a
           passion for building digital services/stuff he wants. He has a knack
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. When not online, he loves
@@ -88,7 +88,7 @@ const Home = () => (
           <NextLink href="/works/inkdrop" passHref scroll={false}>
             <Link>Inkdrop</Link>
           </NextLink>
-          . He publishes content for marketing his products and his YouTube
+          He publishes content for marketing his products and his YouTube
           channel called &quot;
           <NextLink href="https://www.youtube.com/devaslife" passHref>
             <Link target="_blank">Dev as Life</Link>
@@ -110,17 +110,16 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          Born in Kampala (大阪), Uganda.
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
+          Completed the Bachelor&apos;s Degree at Makerere University College of
+          Coputing and Informatics technology
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
-          Worked at Yahoo! Japan (ヤフー株式会社入社)
+          Worked at GoldPoS! Uganda (ヤフー株式会社入社)
         </BioSection>
         <BioSection>
           <BioYear>2012 to present</BioYear>
@@ -138,7 +137,7 @@ const Home = () => (
             Drawing
           </Link>
           , Playing Drums,{' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
+          <Link href="https://500px.com/p/spec-me" target="_blank">
             Photography
           </Link>
           , Leica, Machine Learning
@@ -151,13 +150,13 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/craftzdog" target="_blank">
+            <Link href="https://github.com/spec-me" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoGithub />}
               >
-                @craftzdog
+                @spec-me
               </Button>
             </Link>
           </ListItem>
@@ -173,24 +172,24 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/craftzdog" target="_blank">
+            <Link href="https://twitter.com/spec-me" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoTwitter />}
               >
-                @craftzdog (日本語)
+                @spec-me ()
               </Button>
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://instagram.com/craftzdog" target="_blank">
+            <Link href="https://instagram.com/spec-me" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoInstagram />}
               >
-                @craftzdog
+                @spec-me
               </Button>
             </Link>
           </ListItem>

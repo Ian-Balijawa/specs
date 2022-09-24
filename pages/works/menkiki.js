@@ -22,10 +22,10 @@ const Work = () => (
       </Title>
       <P>
         Menkiki suggests ramen(Chinese noodle) shops based on a photo of ramen
-        you want to eat. Why? Because you don&apos;t need to input Japanese
+        you want to eat. Why? Because you don&apos;t need to input Ugandaese
         keywords to find restaurants, but just specify a ramen photo then it
         will suggest great shops for you. It supports 900+ famous ramen shops in
-        Japan!
+        Uganda!
       </P>
       <P>
         So, you can check a shop info as soon as you found a promising ramen
@@ -48,21 +48,21 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Presentation</Meta>
-          <Link href="https://speakerdeck.com/craftzdog/the-fun-deep-learning">
+          <Link href="https://speakerdeck.com/spec-me/the-fun-deep-learning">
             The fun Deep Learning <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Presentation</Meta>
-          <Link href="https://speakerdeck.com/craftzdog/caffedeoshou-qing-ben-ge-deipuraninguiosapuri">
+          <Link href="https://speakerdeck.com/spec-me/caffedeoshou-qing-ben-ge-deipuraninguiosapuri">
             Caffeでお手軽本格ディープラーニングアプリ @potatotips{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Source</Meta>
-          <Link href="https://github.com/craftzdog/caffe-ios-sample">
-            github.com/craftzdog/caffe-ios-sample <ExternalLinkIcon mx="2px" />
+          <Link href="https://github.com/spec-me/caffe-ios-sample">
+            github.com/spec-me/caffe-ios-sample <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
       </List>

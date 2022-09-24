@@ -36,7 +36,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Blogpost</Meta>
-          <Link href="https://archive.craftz.dog/blog.odoruinu.net/2016/09/06/farewell-from-walknote/">
+          <Link href="https://archivespec-me.com/blog.odoruinu.net/2016/09/06/farewell-from-walknote/">
             音楽発掘アプリwalknoteクローズのお知らせ{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
